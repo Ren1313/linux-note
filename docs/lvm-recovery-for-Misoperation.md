@@ -58,7 +58,7 @@ rl {
                         status = ["READ", "WRITE", "VISIBLE"]
                         flags = []
                         creation_time = 1775818554      # 2026-04-10 06:55:54 -0400
-                        creation_host = "Ren-test"
+                        creation_host = "test"
                         segment_count = 1
 
                         segment1 {
@@ -79,7 +79,7 @@ rl {
                         status = ["READ", "WRITE", "VISIBLE"]
                         flags = []
                         creation_time = 1775818554      # 2026-04-10 06:55:54 -0400
-                        creation_host = "Ren-test"
+                        creation_host = "test"
                         segment_count = 1
 
                         segment1 {
